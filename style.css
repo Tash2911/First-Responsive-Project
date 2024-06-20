@@ -1,0 +1,123 @@
+h1 {
+  text-align: center;
+  margin: 80px;
+}
+.intro {
+  margin-top: 180px;
+}
+.name {
+  font-size: 70px;
+}
+.info,
+.info-2 {
+  font-size: 20px;
+}
+.back {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  color: #ff5722;
+}
+.about {
+  font-size: 70px;
+  margin: 15px;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin: 80px;
+}
+.contact {
+  padding: 15px;
+  color: #ff5722;
+}
+.about-2 {
+  padding: 18px;
+  color: #ff5722;
+}
+button {
+  background-color: #defcf9;
+  border: 2px solid #ff5722;
+  padding: 18px;
+  border-radius: 10%;
+}
+:root {
+  --background-color: #defcf9;
+  --color: #ff5722;
+  --display: flex;
+  --flex-direction: row;
+  --padding: 20px;
+  --font: 20px;
+}
+.paragraphs {
+  background-color: var(--background-color);
+  color: var(--color);
+  display: var(--display);
+  flex-direction: var(--flex-direction);
+  padding: var(--padding);
+  font-size: var(--font);
+}
+
+.paragraphs p {
+  margin: 10px;
+}
+h2 {
+  text-align: center;
+}
+.contact-2 {
+  font-size: 40px;
+}
+.mail {
+  font-size: 30px;
+  color: #ff5722;
+}
+#resume {
+  margin: 150px;
+}
+.card-text {
+  font-size: 15px;
+}
+h3,
+h4 {
+  font-size: 20px;
+}
+#project-dessert {
+  font-size: 30px;
+  margin: 10px;
+}
+.dessert-link {
+  color: #ff5722;
+  font-size: 15px;
+}
+.contact-page {
+  background-color: #e4f1fe;
+}
+.navbar {
+  background-color: #defcf9;
+}
+.nav-image {
+  max-width: 80px;
+}
+#button-links {
+  marrgin: 5px;
+}
+.forecaast-paragraph {
+  margin-top: 10px;
+}
+
+#nav-link {
+  color: #ff5722;
+}
+
+.card {
+  max-width: 100%;
+  height: auto;
+}
+.favourite {
+  margin-top: 30px;
+}
+.weather {
+  margin-top: 60px;
+}
