@@ -28,12 +28,18 @@ h1 {
   margin: 15px;
 }
 
+h5 {
+  text-align: center;
+  margin: 150px 40px 10px;
+  font-size: 30px;
+}
+
 .links {
   display: flex;
   flex-direction: row;
   justify-content: center;
   justify-content: space-evenly;
-  margin: 80px;
+  margin: 80px 60px 60px;
 }
 
 .contact {
@@ -45,6 +51,7 @@ h1 {
   padding: 18px;
   color: #ff5722;
 }
+
 
 button {
   background-color: #defcf9;
