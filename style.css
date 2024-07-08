@@ -202,9 +202,48 @@ footer {
   justify-content: center;
 }
 
-@media (max-Width: 350px) {
+@media (max-Width: 900px) {
   h1 {
     text-align: center;
   }
 
+  h6 {
+    font-size: 20px;
+    margin: 10px;
+  }
+
+  #women-image {
+    margin: 0 auto;
+  }
+
+  #forecast-image,
+  #weather-image {
+    margin: 0 auto;
+  }
+
+  .forecast-paragraph {
+    font-size: 20px;
+  }
+
+  .nav-image {
+    max-width: 40px;
+  }
+
+  .social-links {
+    display: flex;
+    justify-content: center;
+  }
+
+  .about {
+    font-size: 20px;
+  }
+
+  #profile-image {
+    margin: 20px;
+    max-width: 300px;
+  }
+
+  .name {
+    font-size: 25px;
+  }
 }
