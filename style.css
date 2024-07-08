@@ -202,6 +202,10 @@ footer {
   justify-content: center;
 }
 
+.git-hub-link {
+  text-decoration: none;
+}
+
 @media (max-Width: 900px) {
   h1 {
     text-align: center;
