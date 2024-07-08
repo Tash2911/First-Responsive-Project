@@ -87,6 +87,19 @@ h2 {
   text-align: center;
 }
 
+#weather-image {
+  margin: 30px;
+}
+
+h6 {
+  margin: 100px;
+  font-size: 40px;
+}
+
+#women-image {
+  margin: 40px;
+}
+
 .contact-2 {
   font-size: 35px;
   color: #5585b5;
